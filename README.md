@@ -1,2 +1,7 @@
 # PythonSenderMail
 Graphical Software to email sender
+
+## Requirements
+- Pillow==5.4.1
+- six==1.12.0
+- wxPython==4.0.4
